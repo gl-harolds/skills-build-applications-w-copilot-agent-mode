@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-43rlip4za_kwj*z34xphm))ya&8pd&$t5v&f=_210*qxexa6^$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'scaling-broccoli-97xgxrqgqrx6fxv6g-8000.app.github.dev']
 
 
 # Application definition
